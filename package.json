@@ -1,6 +1,6 @@
 {
   "name": "react-first-child",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "React component which returns it's first child.",
   "main": "index.js",
   "repository": {
@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/jacobbuck/react-first-child#readme",
   "peerDependencies": {
-    "react": "15.x"
+    "react": ">=15.3.0"
   }
 }
